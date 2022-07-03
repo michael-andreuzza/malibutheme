@@ -11,7 +11,7 @@ On the official website you will find guidelines, color refference, color picker
 2. Search for **`Malibu`**
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme >
- **Malibu Moonlight - Malibu Monochrome**
+ **Malibu Sunset - Malibu Sunrise**
 
 The theme is available for editors; shells, UI's and more coming up. Checkout the website
 
