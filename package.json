@@ -1,6 +1,6 @@
 {
-    "name": "surf",
-    "displayName": "Surfing with Grannis",
+    "name": "malibu",
+    "displayName": "Malibu",
     "description": "A gentle & elegant theme.",
     "version": "0.0.1",
     "publisher": "wicked-labs",
@@ -17,6 +17,10 @@
     "engines": {
         "vscode": "^1.68.0"
     },
+    "galleryBanner": {
+    "color": "#FAF4ED",
+    "theme": "dark"
+  },
     "categories": [
     "Themes"
   ],
@@ -32,11 +36,11 @@
             {
                 "label": "Brighton Day",
                 "uiTheme": "vs",
-                "path": "./themes/brighton-night.json"
+                "path": "./themes/malibu-sunrise.json"
             },{
                 "label": "Brighton Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/brighton-night.json"
+                "path": "./themes/malibu-sunet.json"
             }
         ]
     }

@@ -1,49 +1,49 @@
 
 
-# Brighton for VS Code.
+# Malibu for VS Code.
 
-On the official website you will find guidelines, color refference, color pickers and soon a list of interefaces that Brighton has been ported to.
+On the official website you will find guidelines, color refference, color pickers and soon a list of interefaces that Malibu has been ported to.
 
 
 # Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for **`Brighton`**
+2. Search for **`Malibu`**
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme >
- **Brighton Moonlight - Brighton Monochrome**
+ **Malibu Moonlight - Malibu Monochrome**
 
 The theme is available for editors; shells, UI's and more coming up. Checkout the website
 
 ## Available Options
-- Brighton Night
-- Brighton Day
+- Malibu Night
+- Malibu Day
 
 ### EXAMPLES
 You have two themes, Day &amp; night and here the screenshots:
 ### Moonlight
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/day-images/day-cpp.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/day-images/day-cs.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/day-images/day-css.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/day-images/day-html.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/day-images/day-java.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/day-images/day-js.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/day-images/day-md.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/day-images/day-py.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/day-images/day-sh.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/day-images/day-terminal.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-cpp.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-cs.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-css.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-html.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-java.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-js.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-md.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-py.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-sh.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-terminal.png?raw=true)
 
 ### Monochrome
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/night-images/night-cpp.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/night-images/night-cs.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/night-images/night-css.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/night-images/night-html.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/night-images/night-java.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/night-images/night-js.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/night-images/night-md.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/night-images/night-py.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/night-images/night-sh.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/brighton-theme/blob/master/night-images/night-terminal.png?
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-cpp.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-cs.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-css.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-html.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-java.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-js.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-md.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-py.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-sh.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-terminal.png?
 
 
 ## Personal Settings.
@@ -72,7 +72,7 @@ To **disable** italics for all themes, add this snippet to your `settings.json`:
 
 ```jsonc
 "editor.tokenColorCustomizations": {
-  "[Brighton Moonlight][Brighton Monochrome]": {
+  "[Malibu Moonlight][Malibu Monochrome]": {
     "textMateRules": [
       {
         "scope": [
@@ -150,5 +150,5 @@ To **disable** italics for all themes, add this snippet to your `settings.json`:
 },
 ```
 
-Brighton Theme created by [Michael Andreuzza](https://github.com/michael-andreuzza).
+Malibu Theme created by [Michael Andreuzza](https://github.com/michael-andreuzza).
 [Twitter](https://twitter.com/Mike_Andreuzza)
