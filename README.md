@@ -22,28 +22,28 @@ The theme is available for editors; shells, UI's and more coming up. Checkout th
 ### EXAMPLES
 You have two themes, Day &amp; night and here the screenshots:
 ### Moonlight
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-cpp.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-cs.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-css.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-html.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-java.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-js.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-md.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-py.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-sh.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/day-images/day-terminal.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-cpp.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-cs.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-css.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-html.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-java.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-js.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-md.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-py.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-sh.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-terminal.png?raw=true)
 
 ### Monochrome
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-cpp.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-cs.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-css.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-html.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-java.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-js.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-md.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-py.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-sh.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/Malibu-theme/blob/master/night-images/night-terminal.png?
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-cpp.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-cs.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-css.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-html.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-java.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-js.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-md.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-py.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-sh.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-terminal.png?
 
 
 ## Personal Settings.
