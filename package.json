@@ -1,21 +1,38 @@
 {
-    "name": "brighton",
-    "displayName": "Brighton",
+    "name": "surf",
+    "displayName": "Surfing with Grannis",
     "description": "A gentle & elegant theme.",
     "version": "0.0.1",
     "publisher": "wicked-labs",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/michael-andreuzza/brighton-theme"
+  },
+  "bugs": {
+    "type": "git",
+    "url": "https://github.com/michael-andreuzza/brighton-theme"
+  },
+  "homepage": "https://marketplace.visualstudio.com/items?itemName=wicked-labs.brighton",
+  "icon": "logo/theme-icon.png",
     "engines": {
         "vscode": "^1.68.0"
     },
     "categories": [
-        "Themes"
-    ],
+    "Themes"
+  ],
+  "keywords": [
+    "michael andreuzza",
+    "brighton theme",
+    "day",
+    "night",
+    "gentle"
+  ],
     "contributes": {
         "themes": [
             {
                 "label": "Brighton Day",
                 "uiTheme": "vs",
-                "path": "./themes/brighton-day.json"
+                "path": "./themes/brighton-night.json"
             },{
                 "label": "Brighton Dark",
                 "uiTheme": "vs-dark",
