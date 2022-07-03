@@ -2,7 +2,7 @@
     "name": "malibu",
     "displayName": "Malibu",
     "description": "A gentle & elegant theme.",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "publisher": "wicked-labs",
     "repository": {
     "type": "git",
@@ -26,10 +26,10 @@
   ],
   "keywords": [
     "michael andreuzza",
-    "brighton theme",
-    "day",
-    "night",
-    "gentle"
+    "surf vibes",
+    "retro",
+    "80's",
+    "modern"
   ],
     "contributes": {
         "themes": [

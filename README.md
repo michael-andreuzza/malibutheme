@@ -43,7 +43,7 @@ You have two themes, Day &amp; night and here the screenshots:
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-md.png?raw=true)
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-py.png?raw=true)
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-sh.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-terminal.png?
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-terminal.png?)
 
 
 ## Personal Settings.
