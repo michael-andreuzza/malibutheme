@@ -1,0 +1,26 @@
+{
+    "name": "brighton",
+    "displayName": "Brighton",
+    "description": "A gentle & elegant theme.",
+    "version": "0.0.1",
+    "publisher": "wicked-labs",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Brighton Day",
+                "uiTheme": "vs",
+                "path": "./themes/brighton-day.json"
+            },{
+                "label": "Brighton Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/brighton-night.json"
+            }
+        ]
+    }
+}
