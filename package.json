@@ -18,8 +18,8 @@
         "vscode": "^1.68.0"
     },
     "galleryBanner": {
-    "color": "#232138",
-    "theme": "dark"
+    "color": "#FAF4ED",
+    "theme": "light"
   },
     "categories": [
     "Themes"
@@ -40,7 +40,7 @@
             },{
                 "label": "Brighton Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/malibu-sunet.json"
+                "path": "./themes/malibu-sunset.json"
             }
         ]
     }
