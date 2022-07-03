@@ -6,11 +6,11 @@
     "publisher": "wicked-labs",
     "repository": {
     "type": "git",
-    "url": "https://github.com/michael-andreuzza/brighton-theme"
+    "url": "https://github.com/michael-andreuzza/malibu-theme"
   },
   "bugs": {
     "type": "git",
-    "url": "https://github.com/michael-andreuzza/brighton-theme"
+    "url": "https://github.com/michael-andreuzza/malibu-theme"
   },
   "homepage": "https://marketplace.visualstudio.com/items?itemName=wicked-labs.brighton",
   "icon": "logo/theme-icon.png",
@@ -18,8 +18,8 @@
         "vscode": "^1.68.0"
     },
     "galleryBanner": {
-    "color": "#FAF4ED",
-    "theme": "light"
+    "color": "#232138",
+    "theme": "dark"
   },
     "categories": [
     "Themes"
