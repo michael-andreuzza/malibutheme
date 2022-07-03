@@ -21,7 +21,7 @@ The theme is available for editors; shells, UI's and more coming up. Checkout th
 
 ### EXAMPLES
 You have two themes, Day &amp; night and here the screenshots:
-### Moonlight
+### Sunrise
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-cpp.png?raw=true)
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-cs.png?raw=true)
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-css.png?raw=true)
@@ -33,7 +33,7 @@ You have two themes, Day &amp; night and here the screenshots:
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-sh.png?raw=true)
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-terminal.png?raw=true)
 
-### Monochrome
+### Sunset
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-cpp.png?raw=true)
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-cs.png?raw=true)
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-css.png?raw=true)
@@ -72,7 +72,7 @@ To **disable** italics for all themes, add this snippet to your `settings.json`:
 
 ```jsonc
 "editor.tokenColorCustomizations": {
-  "[Malibu Moonlight][Malibu Monochrome]": {
+  "[Malibu Sunrise][Malibu Sunset]": {
     "textMateRules": [
       {
         "scope": [
