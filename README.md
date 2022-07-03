@@ -16,11 +16,9 @@ On the official website you will find guidelines, color refference, color picker
 The theme is available for editors; shells, UI's and more coming up. Checkout the website
 
 ## Available Options
-- Malibu Night
-- Malibu Day
+- Malibu Sunset
+- Malibu Sunrise
 
-### EXAMPLES
-You have two themes, Day &amp; night and here the screenshots:
 ### Sunrise
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-cpp.png?raw=true)
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-cs.png?raw=true)
