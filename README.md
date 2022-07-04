@@ -1,9 +1,7 @@
+![Cover](https://github.com/michael-andreuzza/malibu-theme/blob/master/cover.png?raw=true)
 
 
 # Malibu for VS Code.
-
-On the official website you will find guidelines, color refference, color pickers and soon a list of interefaces that Malibu has been ported to.
-
 
 # Installation
 
