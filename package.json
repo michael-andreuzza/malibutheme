@@ -2,7 +2,7 @@
     "name": "malibu",
     "displayName": "Malibu",
     "description": "A retro theme inspired by the surfing days in Malibu beach",
-    "version": "0.2.0",
+    "version": "0.8.0",
     "publisher": "wicked-labs",
     "repository": {
         "type": "git",
@@ -33,15 +33,16 @@
     ],
     "contributes": {
         "themes": [
-            {
-                "label": "Malibu Sunset",
-                "uiTheme": "vs-dark",
-                "path": "./themes/malibu-sunset.json"
-            },
+
             {
                 "label": "Malibu Sunrise",
                 "uiTheme": "vs",
                 "path": "./themes/malibu-sunrise.json"
+            },
+ {
+                "label": "Malibu Sunset",
+                "uiTheme": "vs-dark",
+                "path": "./themes/malibu-sunset.json"
             }
         ]
     }
