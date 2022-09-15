@@ -6,11 +6,11 @@
     "publisher": "wicked-labs",
     "repository": {
     "type": "git",
-    "url": "https://github.com/michael-andreuzza/malibu-theme"
+    "url": "https://github.com/michael-andreuzza/malibutheme"
   },
   "bugs": {
     "type": "git",
-    "url": "https://github.com/michael-andreuzza/malibu-theme"
+    "url": "https://github.com/michael-andreuzza/malibutheme"
   },
   "homepage": "https://marketplace.visualstudio.com/items?itemName=wicked-labs.malibu",
   "icon": "logo/theme-icon.png",
@@ -33,14 +33,16 @@
   ],
     "contributes": {
         "themes": [
+
             {
-                "label": "Malibu Day",
-                "uiTheme": "vs",
-                "path": "./themes/malibu-sunrise.json"
-            },{
-                "label": "Malibu Dark",
+                "label": "Malibu Sunset",
                 "uiTheme": "vs-dark",
                 "path": "./themes/malibu-sunset.json"
+            }
+            ,{
+                "label": "Malibu Sunrise",
+                "uiTheme": "vs",
+                "path": "./themes/malibu-sunrise.json"
             }
         ]
     }
