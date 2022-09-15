@@ -36,7 +36,7 @@
 		"charts.purple": "#5B879A",
 
 		"checkbox.background": "#2a273f",
-		"checkbox.border": "#817c9c26",
+		"checkbox.border": "#817c9c26", 
 		"checkbox.foreground": "#F2E9E1",
 		"debugExceptionWidget.background": "#2a273f",
 		"debugExceptionWidget.border": "#817c9c26",
