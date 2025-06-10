@@ -11,8 +11,6 @@
 4. Code > Preferences > Color Theme >
  **Malibu Sunset - Malibu Sunrise**
 
-The theme is available for editors; shells, UI's and more coming up. Checkout the website
-
 ## Available Options
 - Malibu Sunset
 - Malibu Sunrise
