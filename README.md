@@ -17,27 +17,11 @@
 
 ### Sunrise
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-cpp.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-cs.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-css.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-html.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-java.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-js.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-md.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-py.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-sh.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunrise-images/sunrise-terminal.png?raw=true)
+
 
 ### Sunset
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-cpp.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-cs.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-css.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-html.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-java.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-js.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-md.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-py.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-sh.png?raw=true)
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme/blob/master/sunset-images/sunset-terminal.png?)
+
 
 
 ## Personal Settings.
